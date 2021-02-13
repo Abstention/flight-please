@@ -1,0 +1,10 @@
+name: FlightPlease
+version: 1.0-SNAPSHOT
+main: me.abstention.flightplease.FlightPlease
+api-version: 1.16
+authors: [ Abstention ]
+description: Allows for flight!
+commands:
+  fly:
+    description: Toggle Flight!
+    aliases: [togglefly]
