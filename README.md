@@ -2,7 +2,7 @@
 A lightweight flight plugin.
 
 COMMANDS:
-/fly
+/fly - /togglefly
 
 PERMISSIONS:
 flightplease.fly
